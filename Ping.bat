@@ -1,8 +1,6 @@
 @echo off
-title Ping_Command
-
-set /p "address=Enter Address: "
-
-ping %address%
-
+title Ping Command
+set /p Name=Enter your Adress : 
+echo Hay! %Name%
+ping %Name%
 pause
