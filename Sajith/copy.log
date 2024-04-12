@@ -1,0 +1,38 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, February 28, 2024 11:38:55 PM
+   Source : C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\NestJs CRUD\front-end\
+     Dest : C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\New folder\
+
+    Files : *.*
+	    
+ Exc Dirs : node_modules
+	    .angular
+	    .vscode
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   9	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\NestJs CRUD\front-end\
+	*EXTRA Dir        -1	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\New folder\Backup_Wed 02_28_2024_23-36-30.81\
+	*EXTRA Dir        -1	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\New folder\Backup_Wed 02_28_2024_23-36-42.93\
+	*EXTRA Dir        -1	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\New folder\Backup_Wed 02_28_2024_23-37-23.26\
+	*EXTRA Dir        -1	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\New folder\Backup_Wed 02_28_2024_23-37-27.40\
+	*EXTRA Dir        -1	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\New folder\Backup_Wed 02_28_2024_23-38-44.39\
+	*EXTRA Dir        -1	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\New folder\Backup_Wed 02_28_2024_23-38-55.07\
+	                   1	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\NestJs CRUD\front-end\code\
+	                   0	C:\Users\mohamedsa\Desktop\Mohmed_Sajith\Full Stack\NestJs CRUD\front-end\code\dc\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         0         6         0         0         6
+   Files :        10         0        10         0         0         0
+   Bytes :   861.0 k         0   861.0 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, February 28, 2024 11:38:55 PM
+
