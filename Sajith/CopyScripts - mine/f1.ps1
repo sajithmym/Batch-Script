@@ -1,5 +1,8 @@
-$source_folder = "$HOME\Desktop\Mohmed_Sajith\PLM Project\Excel"
-$destination_folder = "$HOME\Desktop\Mohmed_Sajith\PLM Project\Text\tables\tables"
+# $source_folder = "$HOME\Desktop\Mohmed_Sajith\PLM Project\Excel"
+# $destination_folder = "$HOME\Desktop\Mohmed_Sajith\PLM Project\Text\tables\tables"
+
+$source_folder = "F:\\Testing\\1.app test"
+$destination_folder = "F:\\Testing\\copy"
 
 # Get today's date
 $today_date = (Get-Date).Date

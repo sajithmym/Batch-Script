@@ -1,5 +1,5 @@
-$source_folder = "$HOME\Desktop\Mohmed_Sajith\PLM Project\Excel"
-$destination_folder = "$HOME\Desktop\Mohmed_Sajith\PLM Project\Text\tables\tables"
+$source_folder = "F:\\Testing\\1.app test"
+$destination_folder = "F:\\Testing\\copy"
 
 # Get the latest file in the source folder
 $latest_file = Get-ChildItem -Path $source_folder | Sort-Object LastWriteTime -Descending | Select-Object -First 1
